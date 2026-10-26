@@ -1,81 +1,162 @@
 
 <div align="center">
 
-# Hi, I'm Pratyush 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0f172a,100:164e63&text=RANJAN&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=Code%20%7C%20Algorithms%20%7C%20AI&descAlignY=68&descSize=18" width="100%" />
 
-### Computer Science Student | Developer | Problem Solver
+<a href="https://github.com/XxRANJANxX">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Competitive+Programming+Enthusiast;Building+AI-powered+Applications;Learning+by+Building" alt="Typing introduction" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<p>
+  <a href="https://github.com/XxRANJANxX">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/XxRANJANxX/ALCEN_multilingual_ai_chatbot">
+    <img src="https://img.shields.io/badge/Featured_Project-Polyglot--RAG-0E7490?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## `$ whoami`
+## `whoami`
 
-```text
-Name       : YOUR_NAME
-Education  : Computer Science — IIT Ropar
-Interests  : DSA, AI/ML, Backend Development
-Currently  : Building multilingual AI applications
-Goal       : Build impactful software and solve hard problems
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Ranjan"
+        self.education = "Computer Science @ IIT Ropar"
+        self.interests = [
+            "Data Structures & Algorithms",
+            "Artificial Intelligence",
+            "Backend Engineering",
+            "Systems Programming",
+        ]
+        self.currently_building = "Polyglot-RAG"
+
+    def motto(self):
+        return "Understand deeply. Build thoughtfully. Improve constantly."
 ```
 
-## `$ cat about.txt`
+## `about --me`
 
 - 🎓 Computer Science student at IIT Ropar.
-- 💻 Interested in algorithms, data structures, and competitive programming.
-- 🤖 Building AI applications using LLMs and Retrieval-Augmented Generation.
-- ⚙️ Exploring backend engineering, databases, and system design.
-- 🚀 Learning by building real-world projects.
+- 🧩 Interested in algorithmic problem-solving and competitive programming.
+- 🤖 Building multilingual AI applications with RAG and LLMs.
+- ⚙️ Exploring backend systems, databases, and software architecture.
+- 🌱 Focused on learning concepts deeply and applying them through projects.
 
-## `$ ls tech-stack`
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-
-### Backend & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6B4EFF?style=flat-square)
-![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-## `$ github-stats`
+## `tech --stack`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=cpp,python,java,postgres&theme=dark" />
+
+### Backend · AI · Data
+
+<img src="https://skillicons.dev/icons?i=fastapi,sqlite,docker,git,github,linux&theme=dark" />
 
 </div>
 
-## `$ competitive-programming`
+**Currently working with:** FastAPI · ChromaDB · Retrieval-Augmented Generation · LLM APIs · Verilog
 
-- **Codeforces:** [YOUR_HANDLE](YOUR_CODEFORCES_URL)
-- **LeetCode:** [YOUR_HANDLE](YOUR_LEETCODE_URL)
+## `ls ./projects`
 
-## `$ contact`
+<table>
+<tr>
+<td width="50%">
 
-- 📧 Email: rpratyush0207@gmail.com
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/pratyush-ranjan-b7828a37b/?isSelfProfile=true)
-- 🐙 GitHub: [YOUR_USERNAME](https://github.com/XxRANJANxX)
+### 🌐 Polyglot-RAG
 
----
+A multilingual AI chatbot that retrieves relevant knowledge and generates context-aware answers.
+
+**Highlights**
+- Document ingestion and chunking
+- ChromaDB vector retrieval
+- FastAPI and LLM integration
+- Conversation history and source retrieval
+
+**Stack:** Python · FastAPI · ChromaDB
+
+<a href="https://github.com/XxRANJANxX/ALCEN_multilingual_ai_chatbot">View repository →</a>
+
+</td>
+<td width="50%">
+
+### 💾 Cache Memory System
+
+A set-associative cache memory design exploring cache organization and replacement policies.
+
+**Highlights**
+- Verilog hardware design
+- Cache simulation
+- LRU and round-robin replacement
+
+**Stack:** Verilog · Digital Logic Design
+
+<a href="YOUR_CACHE_REPOSITORY_URL">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+## `github --stats`
 
 <div align="center">
 
-*“Build. Break. Learn. Repeat.”*
+<a href="https://github.com/XxRANJANxX">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XxRANJANxX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/XxRANJANxX">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxRANJANxX&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=XxRANJANxX&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## `competitive-programming`
+
+<div align="center">
+
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+*Focused on strengthening problem-solving skills, algorithmic thinking, and implementation.*
+
+## `connect`
+
+<div align="center">
+
+<a href="https://github.com/XxRANJANxX">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+```text
+while (alive) {
+    learn();
+    build();
+    solve();
+    repeat();
+}
+```
+
+**Thanks for visiting! ⭐**
 
 </div>
