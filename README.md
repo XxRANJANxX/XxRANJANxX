@@ -90,13 +90,13 @@ A multilingual AI chatbot that retrieves relevant knowledge and generates contex
 A set-associative cache memory design exploring cache organization and replacement policies.
 
 **Highlights**
-- Verilog hardware design
+
 - Cache simulation
 - LRU and round-robin replacement
 
 **Stack:** C++ · Digital Logic Design
 
-<a href="YOUR_CACHE_REPOSITORY_URL">View repository →</a>
+<a href="https://github.com/XxRANJANxX/CACHE_MEMOMRY_ANALYZER">View repository →</a>
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ A set-associative cache memory design exploring cache organization and replaceme
 
 <div align="center">
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/spectrum_44">
   <img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 <a href="https://leetcode.com/">
@@ -141,7 +141,7 @@ A set-associative cache memory design exploring cache organization and replaceme
 <a href="https://github.com/XxRANJANxX">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pratyush-ranjan-b7828a37b/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
