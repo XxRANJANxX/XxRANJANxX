@@ -25,12 +25,11 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Ranjan"
+        self.name = "Pratyush"
         self.education = "Computer Science @ IIT Ropar"
         self.interests = [
             "Data Structures & Algorithms",
             "Artificial Intelligence",
-            "Backend Engineering",
             "Systems Programming",
         ]
         self.currently_building = "Polyglot-RAG"
@@ -41,11 +40,11 @@ class Developer:
 
 ## `about --me`
 
-- 🎓 Computer Science student at IIT Ropar.
-- 🧩 Interested in algorithmic problem-solving and competitive programming.
-- 🤖 Building multilingual AI applications with RAG and LLMs.
-- ⚙️ Exploring backend systems, databases, and software architecture.
-- 🌱 Focused on learning concepts deeply and applying them through projects.
+-  Computer Science student at IIT Ropar.
+-  Interested in algorithmic problem-solving and competitive programming.
+-  Building multilingual AI applications with RAG and LLMs.
+-  Exploring backend systems, databases, and software architecture.
+
 
 ## `tech --stack`
 
@@ -69,7 +68,7 @@ class Developer:
 <tr>
 <td width="50%">
 
-### 🌐 Polyglot-RAG
+###  Polyglot-RAG
 
 A multilingual AI chatbot that retrieves relevant knowledge and generates context-aware answers.
 
@@ -86,7 +85,7 @@ A multilingual AI chatbot that retrieves relevant knowledge and generates contex
 </td>
 <td width="50%">
 
-### 💾 Cache Memory System
+###  Cache Memory System
 
 A set-associative cache memory design exploring cache organization and replacement policies.
 
@@ -95,7 +94,7 @@ A set-associative cache memory design exploring cache organization and replaceme
 - Cache simulation
 - LRU and round-robin replacement
 
-**Stack:** Verilog · Digital Logic Design
+**Stack:** C++ · Digital Logic Design
 
 <a href="YOUR_CACHE_REPOSITORY_URL">View repository →</a>
 
